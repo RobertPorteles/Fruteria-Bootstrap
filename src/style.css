@@ -1,0 +1,41 @@
+.card-width{
+    width: 18rem;
+}
+
+.imagem-carousel-um{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px; 
+}
+.imagem-carousel-dois{
+    object-fit: cover;
+    object-position: 0 54%;
+    height: 400px;    
+}
+
+.font-title{
+    font-family: 'Pacifico', cursive;
+}
+.color{
+    color: brown!important;
+}
+.back-color{
+    color: white;
+    background-color: brown;
+}
+
+.bordercolor{
+    border-color: darkred;
+}
+.back-title{
+    background-color: white;
+}
+
+.card-position{
+    object-fit: cover;
+    height: 200px;
+}
+.rodape{
+    display: flex;
+    justify-content: center;
+}
